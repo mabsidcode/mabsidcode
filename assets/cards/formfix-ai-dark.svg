@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">FormFix AI</title>
+  <desc id="desc">Upload a PDF or a photo of an official form and get every field explained in plain language, in English, Telugu, Hindi, Marathi or Kannada.</desc>
+  <style>
+    .pulse { animation: pulse 2.4s ease-out infinite; transform-origin: 40px 45px }
+    @keyframes pulse { 0% { opacity: .6; transform: scale(1) } 100% { opacity: 0; transform: scale(2.6) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7A45"/>
+      <stop offset="1" stop-color="#FF4D8D"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="598" height="258" rx="20"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="598" height="258" rx="20" fill="#11141B" stroke="#232835" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <rect x="1" y="1" width="598" height="5" fill="url(#accent)"/>
+    <text x="574" y="118" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-6" fill="#1A1E28">01</text>
+  </g>
+  <circle cx="40" cy="45" r="6" fill="#FF7A45" class="pulse"/>
+  <circle cx="40" cy="45" r="5" fill="#FF7A45"/>
+  <text x="54" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1" fill="#FF8A5B">IN PROGRESS</text>
+  <text x="34" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#EEF0F6">FormFix AI</text>
+  
+  <text x="34" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">Upload a PDF or a photo of an official form and get</text>
+  <text x="34" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">every field explained in plain language, in English,</text>
+  <text x="34" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">Telugu, Hindi, Marathi or Kannada.</text>
+  <g transform="translate(34 204)">
+      <rect width="65.65" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="32.825" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">React</text>
+    </g>
+  <g transform="translate(107.65 204)">
+      <rect width="105.3" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="52.65" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">TypeScript</text>
+    </g>
+  <g transform="translate(220.95 204)">
+      <rect width="89.44" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="44.72" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">Tailwind</text>
+    </g>
+  <g transform="translate(318.39 204)">
+      <rect width="81.51" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="40.755" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">Express</text>
+    </g>
+  <g transform="translate(407.9 204)">
+      <rect width="81.51" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="40.755" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">MongoDB</text>
+    </g>
+</svg>

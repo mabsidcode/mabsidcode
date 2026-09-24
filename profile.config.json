@@ -1,0 +1,85 @@
+{
+  "username": "mabsidcode",
+  "name": "Siddique",
+
+  "hero": {
+    "kicker": "~/mabsidcode",
+    "tagline": "I build software that speaks your language.",
+    "typing": [
+      "building FormFix AI",
+      "explaining forms in 5 languages",
+      "voice-first apps for Bharat",
+      "React · TypeScript · Node · Python"
+    ],
+    "glyphs": ["A", "अ", "అ", "ಕ", "</>"],
+    "footnote": "full-stack  ·  AI  ·  multilingual UX"
+  },
+
+  "links": {
+    "website": "",
+    "email": "",
+    "linkedin": "",
+    "x": "",
+    "bluesky": "",
+    "instagram": "",
+    "resume": ""
+  },
+
+  "about": {
+    "heading": "Hey, I'm Siddique 👋",
+    "intro": [
+      "I'm a full-stack developer building tools for the people most software forgets: first-time form fillers, people who would rather speak than type, and anyone who doesn't read English first. My work sits where TypeScript frontends, Node and Python backends, and LLMs meet."
+    ],
+    "nowHeading": "Right now",
+    "now": [
+      "🛠️ **Building** FormFix AI: upload any official form and get it explained, field by field, in plain language",
+      "🎙️ **Shipping** AVSAR for Smart India Hackathon: a voice assistant that turns a spoken goal into a skilling plan",
+      "🔍 **Exploring** speech pipelines, retrieval that cites its sources, and guardrails that keep LLMs honest",
+      "🤝 **Open to** collaborating on anything multilingual, accessible, or AI-shaped"
+    ]
+  },
+
+  "projectsHeading": "What I'm building",
+  "projects": [
+    {
+      "name": "FormFix AI",
+      "status": "In progress",
+      "description": "Upload a PDF or a photo of an official form and get every field explained in plain language, in English, Telugu, Hindi, Marathi or Kannada.",
+      "stack": ["React", "TypeScript", "Tailwind", "Express", "MongoDB"],
+      "repo": "",
+      "url": ""
+    },
+    {
+      "name": "AVSAR",
+      "status": "SIH build",
+      "description": "Voice-first assistant that turns a spoken aspiration into grounded NSQF course recommendations, with a live console for skilling officers.",
+      "stack": ["Python", "FastAPI", "Next.js", "pgvector"],
+      "repo": "",
+      "url": ""
+    }
+  ],
+
+  "recent": {
+    "heading": "Recently pushed",
+    "limit": 6,
+    "hidden": []
+  },
+
+  "stackHeading": "Toolbox",
+  "stack": [
+    { "group": "Frontend", "items": ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"] },
+    { "group": "Backend", "items": ["Node.js", "Express", "Python", "FastAPI"] },
+    { "group": "Data", "items": ["MongoDB", "PostgreSQL", "pgvector", "Redis"] },
+    { "group": "Ship & test", "items": ["Docker", "GitHub Actions", "Vitest", "Git"] }
+  ],
+
+  "activity": {
+    "heading": "Activity",
+    "snake": true
+  },
+
+  "contact": {
+    "note": "Got an idea, a bug, or a form that makes no sense? Open an issue on any repo, I read them all."
+  },
+  "footer": "thanks for stopping by  ·  @mabsidcode"
+}

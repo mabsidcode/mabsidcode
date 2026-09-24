@@ -1,0 +1,16 @@
+{
+  "name": "mabsidcode-profile",
+  "private": true,
+  "description": "Source for the github.com/mabsidcode profile README: one config file in, README and themed SVGs out.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --offline",
+    "check": "node scripts/build.mjs --check",
+    "preview": "node scripts/build.mjs && node scripts/preview.mjs",
+    "test": "node --test scripts/build.test.mjs"
+  }
+}

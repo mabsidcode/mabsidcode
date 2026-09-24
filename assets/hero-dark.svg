@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Siddique (@mabsidcode)</title>
+  <desc id="desc">I build software that speaks your language. — building FormFix AI, explaining forms in 5 languages, voice-first apps for Bharat, React · TypeScript · Node · Python</desc>
+  <style>
+    .blink { animation: blink 1.05s steps(1, end) infinite }
+    @keyframes blink { 50% { opacity: 0 } }
+    .float { animation: float 8s ease-in-out infinite }
+    @keyframes float { 0%, 100% { transform: translateY(0px) } 50% { transform: translateY(-9px) } }
+    .lit { opacity: 0; animation: lit 11s linear infinite }
+    @keyframes lit { 0% { opacity: 0 } 4% { opacity: 1 } 16% { opacity: 1 } 20% { opacity: 0 } 100% { opacity: 0 } }
+    .link { stroke: #232835; stroke-width: 1.5; stroke-dasharray: 3 7; animation: dash 18s linear infinite }
+    @keyframes dash { to { stroke-dashoffset: -200 } }
+    .glow { animation: glow 7s ease-in-out infinite; transform-origin: 975px 190px }
+    @keyframes glow { 0%, 100% { opacity: .75; transform: scale(1) } 50% { opacity: 1; transform: scale(1.06) } }
+    @keyframes k0 { 0% { transform: translateX(0px) } 0% { transform: translateX(0px); animation-timing-function: steps(19, end) } 6.84% { transform: translateX(301.34px) } 15.96% { transform: translateX(301.34px); animation-timing-function: steps(19, end) } 18.514% { transform: translateX(0px) } 100% { transform: translateX(0px) } }
+    @keyframes v0 { 0% { opacity: 1 } 20.674% { opacity: 1 } 20.679% { opacity: 0 } 100% { opacity: 0 } }
+    .k0 { animation: k0 20.833s infinite } .v0 { animation: v0 20.833s infinite }
+    @keyframes k1 { 0% { transform: translateX(0px) } 20.674% { transform: translateX(0px); animation-timing-function: steps(31, end) } 31.834% { transform: translateX(491.66px) } 40.954% { transform: translateX(491.66px); animation-timing-function: steps(31, end) } 45.121% { transform: translateX(0px) } 100% { transform: translateX(0px) } }
+    @keyframes v1 { 0% { opacity: 0 } 20.674% { opacity: 0 } 20.679% { opacity: 1 } 47.281% { opacity: 1 } 47.286% { opacity: 0 } 100% { opacity: 0 } }
+    .k1 { animation: k1 20.833s infinite } .v1 { animation: v1 20.833s infinite }
+    @keyframes k2 { 0% { transform: translateX(0px) } 47.281% { transform: translateX(0px); animation-timing-function: steps(27, end) } 57.001% { transform: translateX(428.22px) } 66.121% { transform: translateX(428.22px); animation-timing-function: steps(27, end) } 69.75% { transform: translateX(0px) } 100% { transform: translateX(0px) } }
+    @keyframes v2 { 0% { opacity: 0 } 47.281% { opacity: 0 } 47.286% { opacity: 1 } 71.91% { opacity: 1 } 71.915% { opacity: 0 } 100% { opacity: 0 } }
+    .k2 { animation: k2 20.833s infinite } .v2 { animation: v2 20.833s infinite }
+    @keyframes k3 { 0% { transform: translateX(0px) } 71.91% { transform: translateX(0px); animation-timing-function: steps(34, end) } 84.15% { transform: translateX(539.24px) } 93.27% { transform: translateX(539.24px); animation-timing-function: steps(34, end) } 97.84% { transform: translateX(0px) } 100% { transform: translateX(0px) } }
+    @keyframes v3 { 0% { opacity: 0 } 71.91% { opacity: 0 } 71.915% { opacity: 1 } 100% { opacity: 1 } 100% { opacity: 1 } }
+    .k3 { animation: k3 20.833s infinite } .v3 { animation: v3 20.833s infinite }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7A45"/>
+      <stop offset="1" stop-color="#FF4D8D"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF7A45" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF7A45" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#262B38"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotmask"><rect width="1200" height="380" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="378" rx="24"/></clipPath>
+    <clipPath id="typing"><rect x="128" y="262" width="636" height="50"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="#0B0D12"/>
+
+    <text x="72" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8B93A7"><tspan fill="#FF8A5B">●</tspan>  ~/mabsidcode</text>
+    <text x="68" y="182.24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-2.5" fill="#EEF0F6">Siddique<tspan fill="url(#accent)">.</tspan></text>
+    <text x="72" y="232.24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="28" fill="#8B93A7">I build software that speaks your language.</text>
+
+    <text x="72" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="url(#accent)">~ ❯</text>
+    <g clip-path="url(#typing)">
+      <g class="v0">
+        <text x="132" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#EEF0F6" xml:space="preserve">building FormFix AI</text>
+        <rect x="130" y="264" width="648" height="46" fill="#0B0D12" class="k0" transform="translate(301.34 0)"/>
+        <g class="k0" transform="translate(301.34 0)"><rect x="134" y="272" width="3" height="30" rx="1.5" fill="#FF7A45" class="blink"/></g>
+      </g>
+      <g class="v1" opacity="0">
+        <text x="132" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#EEF0F6" xml:space="preserve">explaining forms in 5 languages</text>
+        <rect x="130" y="264" width="648" height="46" fill="#0B0D12" class="k1"/>
+        <g class="k1"><rect x="134" y="272" width="3" height="30" rx="1.5" fill="#FF7A45" class="blink"/></g>
+      </g>
+      <g class="v2" opacity="0">
+        <text x="132" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#EEF0F6" xml:space="preserve">voice-first apps for Bharat</text>
+        <rect x="130" y="264" width="648" height="46" fill="#0B0D12" class="k2"/>
+        <g class="k2"><rect x="134" y="272" width="3" height="30" rx="1.5" fill="#FF7A45" class="blink"/></g>
+      </g>
+      <g class="v3" opacity="0">
+        <text x="132" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#EEF0F6" xml:space="preserve">React · TypeScript · Node · Python</text>
+        <rect x="130" y="264" width="648" height="46" fill="#0B0D12" class="k3"/>
+        <g class="k3"><rect x="134" y="272" width="3" height="30" rx="1.5" fill="#FF7A45" class="blink"/></g>
+      </g>
+    </g>
+    <text x="72" y="346" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#8B93A7" opacity="0.8">full-stack  ·  AI  ·  multilingual UX</text>
+
+    <!-- Drawn after the typing line so its sliding covers never hide the texture. -->
+    <rect width="1200" height="380" fill="url(#dots)" mask="url(#dotmask)"/>
+    <circle cx="975" cy="190" r="300" fill="url(#halo)" class="glow"/>
+    <line x1="878" y1="112" x2="1046" y2="96" class="link"/>
+    <line x1="1046" y1="96" x2="1112" y2="232" class="link"/>
+    <line x1="1112" y1="232" x2="960" y2="262" class="link"/>
+    <line x1="960" y1="262" x2="832" y2="256" class="link"/>
+    <line x1="832" y1="256" x2="878" y2="112" class="link"/>
+    <line x1="878" y1="112" x2="960" y2="262" class="link"/>
+    <line x1="1046" y1="96" x2="960" y2="262" class="link"/>
+    <g class="float" style="animation-duration: 7.5s; animation-delay: -0s">
+      <circle cx="878" cy="112" r="46" fill="#11141B" stroke="#232835" stroke-width="1.5"/>
+      <text x="878" y="126.858" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="43.7" font-weight="600" fill="#8B93A7">A</text>
+      <g class="lit" style="animation-duration: 11s; animation-delay: -11s">
+        <circle cx="878" cy="112" r="46" fill="url(#accent)"/>
+        <circle cx="878" cy="112" r="55" fill="none" stroke="#FF7A45" stroke-opacity="0.35" stroke-width="2"/>
+        <text x="878" y="126.858" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="43.7" font-weight="600" fill="#FFFFFF">A</text>
+      </g>
+    </g>
+    <g class="float" style="animation-duration: 9s; animation-delay: -1.3s">
+      <circle cx="1046" cy="96" r="56" fill="#11141B" stroke="#232835" stroke-width="1.5"/>
+      <text x="1046" y="114.088" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="53.2" font-weight="600" fill="#8B93A7">अ</text>
+      <g class="lit" style="animation-duration: 11s; animation-delay: -8.8s">
+        <circle cx="1046" cy="96" r="56" fill="url(#accent)"/>
+        <circle cx="1046" cy="96" r="65" fill="none" stroke="#FF7A45" stroke-opacity="0.35" stroke-width="2"/>
+        <text x="1046" y="114.088" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="53.2" font-weight="600" fill="#FFFFFF">अ</text>
+      </g>
+    </g>
+    <g class="float" style="animation-duration: 8s; animation-delay: -2.6s">
+      <circle cx="1112" cy="232" r="44" fill="#11141B" stroke="#232835" stroke-width="1.5"/>
+      <text x="1112" y="246.212" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="41.8" font-weight="600" fill="#8B93A7">అ</text>
+      <g class="lit" style="animation-duration: 11s; animation-delay: -6.6s">
+        <circle cx="1112" cy="232" r="44" fill="url(#accent)"/>
+        <circle cx="1112" cy="232" r="53" fill="none" stroke="#FF7A45" stroke-opacity="0.35" stroke-width="2"/>
+        <text x="1112" y="246.212" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="41.8" font-weight="600" fill="#FFFFFF">అ</text>
+      </g>
+    </g>
+    <g class="float" style="animation-duration: 10s; animation-delay: -3.9s">
+      <circle cx="960" cy="262" r="60" fill="#11141B" stroke="#232835" stroke-width="1.5"/>
+      <text x="960" y="281.38" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="57" font-weight="600" fill="#8B93A7">ಕ</text>
+      <g class="lit" style="animation-duration: 11s; animation-delay: -4.4s">
+        <circle cx="960" cy="262" r="60" fill="url(#accent)"/>
+        <circle cx="960" cy="262" r="69" fill="none" stroke="#FF7A45" stroke-opacity="0.35" stroke-width="2"/>
+        <text x="960" y="281.38" text-anchor="middle" font-family="'Kohinoor Devanagari', 'Kohinoor Telugu', 'Noto Sans Devanagari', 'Noto Sans Telugu', 'Noto Sans Kannada', 'Nirmala UI', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="57" font-weight="600" fill="#FFFFFF">ಕ</text>
+      </g>
+    </g>
+    <g class="float" style="animation-duration: 6.5s; animation-delay: -5.2s">
+      <circle cx="832" cy="256" r="36" fill="#11141B" stroke="#232835" stroke-width="1.5"/>
+      <text x="832" y="263.589" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22.32" font-weight="600" fill="#8B93A7">&lt;/&gt;</text>
+      <g class="lit" style="animation-duration: 11s; animation-delay: -2.2s">
+        <circle cx="832" cy="256" r="36" fill="url(#accent)"/>
+        <circle cx="832" cy="256" r="45" fill="none" stroke="#FF7A45" stroke-opacity="0.35" stroke-width="2"/>
+        <text x="832" y="263.589" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22.32" font-weight="600" fill="#FFFFFF">&lt;/&gt;</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="none" stroke="#232835" stroke-width="2"/>
+</svg>

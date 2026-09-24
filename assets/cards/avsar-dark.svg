@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">AVSAR</title>
+  <desc id="desc">Voice-first assistant that turns a spoken aspiration into grounded NSQF course recommendations, with a live console for skilling officers.</desc>
+  <style>
+    .pulse { animation: pulse 2.4s ease-out infinite; transform-origin: 40px 45px }
+    @keyframes pulse { 0% { opacity: .6; transform: scale(1) } 100% { opacity: 0; transform: scale(2.6) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7A45"/>
+      <stop offset="1" stop-color="#FF4D8D"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="598" height="258" rx="20"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="598" height="258" rx="20" fill="#11141B" stroke="#232835" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <rect x="1" y="1" width="598" height="5" fill="url(#accent)"/>
+    <text x="574" y="118" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-6" fill="#1A1E28">02</text>
+  </g>
+  <circle cx="40" cy="45" r="6" fill="#FF7A45" class="pulse"/>
+  <circle cx="40" cy="45" r="5" fill="#FF7A45"/>
+  <text x="54" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1" fill="#FF8A5B">SIH BUILD</text>
+  <text x="34" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#EEF0F6">AVSAR</text>
+  
+  <text x="34" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">Voice-first assistant that turns a spoken aspiration</text>
+  <text x="34" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">into grounded NSQF course recommendations, with a live</text>
+  <text x="34" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#8B93A7">console for skilling officers.</text>
+  <g transform="translate(34 204)">
+      <rect width="73.58" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="36.79" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">Python</text>
+    </g>
+  <g transform="translate(115.58 204)">
+      <rect width="81.51" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="40.755" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">FastAPI</text>
+    </g>
+  <g transform="translate(205.09 204)">
+      <rect width="81.51" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="40.755" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">Next.js</text>
+    </g>
+  <g transform="translate(294.6 204)">
+      <rect width="89.44" height="28" rx="14" fill="#1A1E28" stroke="#232835"/>
+      <text x="44.72" y="18.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B93A7">pgvector</text>
+    </g>
+</svg>
