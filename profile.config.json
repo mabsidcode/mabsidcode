@@ -1,0 +1,22 @@
+{
+  "username": "mabsidcode",
+  "profile": {
+    "name": "",
+    "links": {
+      "website": "",
+      "email": "",
+      "linkedin": "",
+      "x": "",
+      "bluesky": "",
+      "mastodon": ""
+    }
+  },
+  "projects": {
+    "featured": [],
+    "hidden": [],
+    "descriptions": {},
+    "sort": "pushed",
+    "gridSize": 6,
+    "listSize": 8
+  }
+}
